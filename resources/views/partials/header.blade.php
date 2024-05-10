@@ -1,8 +1,6 @@
 
 <header>
-    <h1>header</h1>
-
-    <a href="{{ route('homePage') }}">Home</a>
-    <a href="{{ route('newPage') }}">New Page</a>
-
+    <div class="text-center  mt-5">
+        <h1>Lista di Film Da Data Base</h1>
+    </div>
 </header>

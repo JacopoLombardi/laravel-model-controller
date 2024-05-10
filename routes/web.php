@@ -23,9 +23,5 @@ Route::get('/', [Pagecontroller::class, 'index'])->name('homePage');
 ///////////////////////////////////
 
 
-// NewPage
-Route::get('/newPage', [Pagecontroller::class, 'newPage'])->name('newPage');
-
-
 
 
